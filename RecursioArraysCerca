@@ -154,6 +154,3 @@ public class RecursioArraysCerca {
     // Quantes crides recursives es fan per a l'array a = {2, 4, 8, 16, 32, 64}
     // en la versio 1 dobleDe(a, 0, 5) i en la versio 2 dobleDe2(a, 0, 5)?
 }
-
-
-//helloooooooooooooooooooooooo
